@@ -1,7 +1,7 @@
 # UGen2023
 Repo for the UGent submissions Genuary 2023
 
-Check out our Instagram page!
+Check out our [Instagram page](https://www.instagram.com/ugentgenerative/)!
 
 | Day    | Prompt                                                                                       | Artist                | 
 | ------ | -------------------------------------------------------------------------------------------- | --------------------- |
