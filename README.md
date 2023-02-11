@@ -3,8 +3,9 @@ Repo for the UGent submissions Genuary 2023
 
 Check out our Instagram page!
 
-| Jan 1  | Perfect loop / Infinite loop / endless GIFs                                                  | Michiel Stock         |
+| Day    | Prompt                                                                                       | Artist                | 
 | ------ | -------------------------------------------------------------------------------------------- | --------------------- |
+| Jan 1  | Perfect loop / Infinite loop / endless GIFs                                                  | Michiel Stock         |
 | Jan 2  | Made in 10 minutes                                                                           | Michiel Stock         |
 | Jan 3  | Glitch Art                                                                                   | Wissam Barhdadi       |
 | Jan 4  | Intersections                                                                                | Koen Van den Eeckhout |
