@@ -10,10 +10,10 @@ Check out our [Instagram page](https://www.instagram.com/ugentgenerative/)!
 | Jan 3  | Glitch Art                                                                                   | Wissam Barhdadi       |
 | Jan 4  | Intersections                                                                                | Koen Van den Eeckhout |
 | Jan 5  | Debug view                                                                                   | Tom Neutens           |
-| Jan 6  | Steal Like An Artist                                                                         | Tim Van Wesemael<br>  |
+| Jan 6  | Steal Like An Artist                                                                         | Tim Van Wesemael      |
 | Jan 7  | Sample a color palette from your favorite movie/album cover                                  | Michiel Stock         |
 | Jan 8  | Signed Distance Functions                                                                    | Thomas Van Giel       |
-| Jan 9  | Plants                                                                                       | Bram Spanhoghe        |
+| Jan 9  | Plants                                                                                       | Bram Spanoghe         |
 | Jan 10 | Generative music                                                                             |                       |
 | Jan 11 | Suprematism                                                                                  | Thomas Van Giel       |
 | Jan 12 | Tessellation                                                                                 | Michiel Stock         |
